@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">F3 Play</string>
+    <string name="title_error">No title available</string>
+    <string name="desc_error">No description available</string>
+
+    <string name="title_activity_play_video">PlayVideo</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
